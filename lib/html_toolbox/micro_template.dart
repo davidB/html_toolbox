@@ -1,3 +1,4 @@
+// License [CC0](http://creativecommons.org/publicdomain/zero/1.0/)
 part of html_toolbox;
 
 const uriPolicyAll = const _UriPolicyAll();
