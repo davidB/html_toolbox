@@ -1,0 +1,7 @@
+name: html_toolbox
+version: 0.1.0
+author: David Bernard <david.bernard.31@gmail.com>
+description: A toolbox for commons operations on html.
+homepage: https://github.com/davidB/html_toolbox
+environment:
+  sdk: '>=1.0.0 <2.0.0'
