@@ -1,0 +1,12 @@
+*.dart.js*
+package
+packages
+off
+target
+.buildlog
+web/out
+.idea
+*.orig
+*.off
+*.failed
+/.project
