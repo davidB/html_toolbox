@@ -246,8 +246,9 @@ class ShowHide {
 
   static String _getShowDisplayValue(Element element) {
     final values = _values[element];
-
-    if(values.initialComputedDisplay == 'none') {
+    if(values.initialLocalDisplay == 'none') {
+      return '';
+    } else if(values.initialComputedDisplay == 'none') {
       // if the element was initially invisible, it's tough to know "why"
       // even if the element has a local display value of 'none' it still
       // might have inherited it from a style sheet
