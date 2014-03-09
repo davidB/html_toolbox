@@ -1,6 +1,6 @@
 name: html_toolbox
 author: David Bernard <david.bernard.31@gmail.com>
-version: 0.1.0
+version: 0.2.0
 homepage: https://github.com/davidB/html_toolbox
 description: A toolbox for commons operations on html.
 environment:
