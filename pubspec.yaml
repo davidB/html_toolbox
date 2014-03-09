@@ -6,4 +6,4 @@ description: A toolbox for commons operations on html.
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
-  bot: '>=0.26.0'
+  bot: '>=0.26.0 <0.27.0'

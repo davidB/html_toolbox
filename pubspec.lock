@@ -4,4 +4,4 @@ packages:
   bot:
     description: bot
     source: hosted
-    version: "0.26.0"
+    version: "0.26.0+1"
