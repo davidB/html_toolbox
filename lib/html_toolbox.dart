@@ -3,8 +3,10 @@ library html_toolbox;
 
 import 'dart:html';
 import 'dart:async';
+import 'package:html_toolbox/effects.dart';
 
 part 'html_toolbox/micro_template.dart';
+part 'html_toolbox/ui_dropdown.dart';
 
 String findBaseUrl() {
   String location = window.location.pathname;
